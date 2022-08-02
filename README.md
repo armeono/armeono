@@ -20,9 +20,7 @@
 
 ### :man_technologist: About me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sarajevo.
-
-:telescope: I am working as a Software Engineer
+I am a Computer Science & Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sarajevo.
 
 :robot: Interested in Full Stack Development, Artificial Intelligence and Robotics.
 
