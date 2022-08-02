@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 :telescope: I am working as a Software Engineer
 
-:robot: Interested in Full Stack development, Artificial Intelligence and Robotics.
+:robot: Interested in Full Stack Development, Artificial Intelligence and Robotics.
 
 :zap: In my free time I play lots of guitar and chess
 
