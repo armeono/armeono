@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About me :
+### About me :
 
 I am a Computer Science & Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sarajevo.
 
@@ -30,7 +30,7 @@ I am a Computer Science & Engineering student <img src="https://media.giphy.com/
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
@@ -52,7 +52,7 @@ I am a Computer Science & Engineering student <img src="https://media.giphy.com/
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 <div align="center">
 
