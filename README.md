@@ -26,7 +26,7 @@ I am a Computer Science & Engineering student <img src="https://media.giphy.com/
 
 :zap: In my free time I play lots of guitar and chess.
 
-:mailbox: How to reach me: ahadzigrahic@gmail.com || [![Linkedin Badge](https://img.shields.io/badge/-armeono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arman-hadzigrahic-a83010201/)
+How to reach me: ahadzigrahic@gmail.com || [![Linkedin Badge](https://img.shields.io/badge/-armeono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arman-hadzigrahic-a83010201/)
 
 ---
 
