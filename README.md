@@ -24,7 +24,7 @@ I am a Computer Science & Engineering student <img src="https://media.giphy.com/
 
 :robot: Interested in Full Stack Development, Artificial Intelligence and Robotics.
 
-:zap: In my free time I play lots of guitar and chess.
+:zap: In my free time I do Brazilian Jiu Jitsu and go hiking a lot.
 
 How to reach me: ahadzigrahic@gmail.com || [![Linkedin Badge](https://img.shields.io/badge/-armeono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arman-hadzigrahic-a83010201/)
 
